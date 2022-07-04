@@ -1,5 +1,5 @@
 # PINC
-![logo](static\images\logo.png)
+![logo](static/images/logo.png)
 
 A powerful tool for identifying non-coding RNAs in plants by analysing k-mer frequency, cds-related features, sequence length and GC content to distinguish between the growing number of non-coding RNAs and coding RNAs in plants.
 
@@ -82,7 +82,7 @@ python pinc.py -f data.fasta
 
 ### Command line version
 
-![logo](static\images\usage.png)
+![logo](static/images/usage.png)
 
 #### Prediction
 
@@ -95,7 +95,7 @@ python pinc.py -f <data.fasta>
 
 #### Prediction
 
-![logo](static\images\web_ui1.png)
+![logo](static/images/web_ui1.png)
 
 
 
@@ -103,11 +103,11 @@ After this, you will get a task page address with the uuid.
 
 After that you can also check the history of the task by the uuid, usually it will be saved for **one month**.
 
-![logo](static\images\web_ui2.png)
+![logo](static/images/web_ui2.png)
 
 View Results and Download results
 
-![logo](static\images\web_ui3.png)
+![logo](static/images/web_ui3.png)
 
 
 
