@@ -146,6 +146,20 @@ View Results and Download results
 In the test set, the accuracy of the PINC ranged from 92.74% to 96.42%.
 
 
+## Citations
+
+```bibtex
+@article{zhang2022pinc,
+  title={PINC: A Tool for Non-Coding RNA Identification in Plants Based on an Automated Machine Learning Framework},
+  author={Zhang, Xiaodan and Zhou, Xiaohu and Wan, Midi and Xuan, Jinxiang and Jin, Xiu and Li, Shaowen},
+  journal={International Journal of Molecular Sciences},
+  volume={23},
+  number={19},
+  pages={11825},
+  year={2022},
+  publisher={MDPI}
+}
+```
 
 ## Contributors
 
